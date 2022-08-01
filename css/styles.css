@@ -36,7 +36,7 @@ a {
 }
 
 .header {
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid #ECECEC;
 }
 
 .header-nd {
@@ -599,7 +599,7 @@ a {
   color: #757575;
 }
 
-.div-overlay:hover .porfolio-cards-overlay {
+.portfolio-item:hover .porfolio-cards-overlay {
   transform: translateY(0%);
 }
 
